@@ -1,0 +1,910 @@
+city_fips,city_name,st,cty_fips,rucc,cz,pop_2010
+4200628,Albion,Pennsylvania,42049,2,215,1516
+4200676,Aldan,Pennsylvania,42045,1,316,4152
+4200820,Aliquippa,Pennsylvania,42007,1,203,9438
+4202000,Allentown,Pennsylvania,42077,2,231,118032
+4202184,Altoona,Pennsylvania,42013,3,420,46320
+4202264,Ambler,Pennsylvania,42091,1,316,6417
+4202288,Ambridge,Pennsylvania,42007,1,203,7050
+4202720,Apollo,Pennsylvania,42129,1,203,1647
+4202832,Archbald,Pennsylvania,42069,2,309,6984
+4203088,Arnold,Pennsylvania,42129,1,203,5157
+4203264,Ashland,Pennsylvania,42107,4,231,2817
+4203272,Ashley,Pennsylvania,42079,2,309,2790
+4203320,Aspinwall,Pennsylvania,42003,1,203,2801
+4203392,Athens,Pennsylvania,42015,6,358,3367
+4203608,Avalon,Pennsylvania,42003,1,203,4705
+4203632,Avis,Pennsylvania,42035,4,358,1484
+4203640,Avoca,Pennsylvania,42079,2,309,2661
+4203688,Avonmore,Pennsylvania,42129,1,203,1011
+4203736,Baden,Pennsylvania,42007,1,203,4135
+4204032,Bangor,Pennsylvania,42095,2,231,5273
+4204432,Bath,Pennsylvania,42095,2,231,2693
+4204688,Beaver,Pennsylvania,42007,1,203,4531
+4204792,Beaver Falls,Pennsylvania,42007,1,203,8987
+4204816,Beaver Meadows,Pennsylvania,42025,2,231,869
+4204944,Bedford,Pennsylvania,42009,6,420,2841
+4205288,Belle Vernon,Pennsylvania,42051,1,203,1093
+4205256,Bellefonte,Pennsylvania,42027,3,565,6187
+4205312,Bellevue,Pennsylvania,42003,1,203,8370
+4205384,Bellwood,Pennsylvania,42013,3,420,1828
+4205504,Ben Avon,Pennsylvania,42003,1,203,1781
+4205672,Bentleyville,Pennsylvania,42125,1,203,2581
+4205776,Berlin,Pennsylvania,42111,4,420,2104
+4205888,Berwick,Pennsylvania,42037,3,113,10477
+4206088,Bethlehem,Pennsylvania,42095,2,231,74982
+4206504,Birdsboro,Pennsylvania,42011,2,231,5163
+4206904,Blairsville,Pennsylvania,42063,4,420,3412
+4206928,Blakely,Pennsylvania,42069,2,309,6564
+4207000,Blawnox,Pennsylvania,42003,1,203,1432
+4207128,Bloomsburg,Pennsylvania,42037,3,113,14855
+4207160,Blossburg,Pennsylvania,42117,6,431,1538
+4207712,Boswell,Pennsylvania,42111,4,420,1277
+4207960,Boyertown,Pennsylvania,42011,2,231,4055
+4207976,Brackenridge,Pennsylvania,42129,1,203,3260
+4207992,Braddock,Pennsylvania,42003,1,203,2159
+4208008,Braddock Hills,Pennsylvania,42003,1,203,1880
+4208040,Bradford,Pennsylvania,42083,7,524,8770
+4208416,Brentwood,Pennsylvania,42003,1,203,9643
+4208568,Bridgeport,Pennsylvania,42091,1,316,4554
+4208624,Bridgeville,Pennsylvania,42003,1,203,5148
+4208760,Bristol,Pennsylvania,42017,1,316,9726
+4208960,Brockway,Pennsylvania,42065,7,332,2072
+4209224,Brookville,Pennsylvania,42065,7,332,3924
+4209432,Brownsville,Pennsylvania,42051,1,203,2331
+4210224,Burgettstown,Pennsylvania,42125,1,203,1388
+4210256,Burnham,Pennsylvania,42087,4,565,2054
+4210464,Butler,Pennsylvania,42019,1,203,13757
+4210768,California,Pennsylvania,42125,1,203,6795
+4210912,Cambridge Springs,Pennsylvania,42039,4,215,2595
+4211000,Camp Hill,Pennsylvania,42041,2,251,7888
+4211152,Canonsburg,Pennsylvania,42125,1,203,8992
+4211160,Canton,Pennsylvania,42015,6,358,1976
+4211232,Carbondale,Pennsylvania,42069,2,309,8891
+4211272,Carlisle,Pennsylvania,42041,2,251,18682
+4211336,Carnegie,Pennsylvania,42003,1,203,7972
+4211456,Carrolltown,Pennsylvania,42021,3,420,853
+4211680,Castle Shannon,Pennsylvania,42003,1,203,8316
+4211720,Catasauqua,Pennsylvania,42095,2,231,6436
+4211736,Catawissa,Pennsylvania,42037,3,113,1552
+4212296,Central City,Pennsylvania,42111,4,420,1124
+4212496,Chalfant,Pennsylvania,42003,1,203,800
+4212536,Chambersburg,Pennsylvania,42055,3,418,20268
+4212704,Charleroi,Pennsylvania,42125,1,203,4120
+4213208,Chester,Pennsylvania,42045,1,316,33972
+4213232,Chester Heights,Pennsylvania,42045,1,316,2531
+4213392,Cheswick,Pennsylvania,42003,1,203,1746
+4213440,Chicora,Pennsylvania,42019,1,203,1043
+4213512,Christiana,Pennsylvania,42071,2,251,1168
+4213704,Clairton,Pennsylvania,42003,1,203,6796
+4213800,Clarion,Pennsylvania,42031,6,215,5276
+4213880,Clarks Summit,Pennsylvania,42069,2,309,5116
+4214000,Claysville,Pennsylvania,42125,1,203,829
+4214064,Clearfield,Pennsylvania,42033,4,332,6215
+4214160,Cleona,Pennsylvania,42075,3,251,2080
+4214264,Clifton Heights,Pennsylvania,42045,1,316,6652
+4214520,Clymer,Pennsylvania,42063,4,420,1357
+4214712,Coatesville,Pennsylvania,42029,1,316,13100
+4215232,Collingdale,Pennsylvania,42045,1,316,8786
+4215384,Columbia,Pennsylvania,42071,2,251,10400
+4215432,Colwyn,Pennsylvania,42045,1,316,2546
+4215680,Confluence,Pennsylvania,42111,4,420,780
+4215776,Connellsville,Pennsylvania,42051,1,203,7637
+4215848,Conshohocken,Pennsylvania,42091,1,316,7833
+4215872,Conway,Pennsylvania,42007,1,203,2176
+4216056,Coopersburg,Pennsylvania,42077,2,231,2386
+4216128,Coplay,Pennsylvania,42095,2,231,3192
+4216144,Coraopolis,Pennsylvania,42003,1,203,5677
+4216256,Cornwall,Pennsylvania,42075,3,251,4112
+4216296,Corry,Pennsylvania,42049,2,215,6605
+4216448,Coudersport,Pennsylvania,42105,9,524,2546
+4216848,Crafton,Pennsylvania,42003,1,203,5951
+4217136,Cresson,Pennsylvania,42021,3,420,1711
+4217152,Cressona,Pennsylvania,42107,4,231,1651
+4217840,Curwensville,Pennsylvania,42033,4,332,2542
+4218000,Dale,Pennsylvania,42021,3,420,1234
+4218048,Dallas,Pennsylvania,42079,2,309,2804
+4218072,Dallastown,Pennsylvania,42133,2,251,4049
+4218088,Dalton,Pennsylvania,42069,2,309,1234
+4218136,Danville,Pennsylvania,42093,3,113,4699
+4218152,Darby,Pennsylvania,42045,1,316,10687
+4218888,Denver,Pennsylvania,42071,2,251,3861
+4218960,Derry,Pennsylvania,42129,1,203,2688
+4219160,Dickson City,Pennsylvania,42069,2,309,6070
+4219208,Dillsburg,Pennsylvania,42133,2,251,2563
+4219536,Donora,Pennsylvania,42129,1,203,4781
+4219576,Dormont,Pennsylvania,42003,1,203,8593
+4219752,Downingtown,Pennsylvania,42029,1,316,7891
+4219784,Doylestown,Pennsylvania,42017,1,316,8380
+4219856,Dravosburg,Pennsylvania,42003,1,203,1792
+4220136,DuBois,Pennsylvania,42033,4,332,7794
+4220144,Duboistown,Pennsylvania,42081,3,358,1205
+4220216,Dunbar,Pennsylvania,42051,1,203,1042
+4220240,Duncannon,Pennsylvania,42099,2,251,1522
+4220248,Duncansville,Pennsylvania,42013,3,420,1233
+4220352,Dunmore,Pennsylvania,42069,2,309,14057
+4220424,Dupont,Pennsylvania,42079,2,309,2711
+4220432,Duquesne,Pennsylvania,42003,1,203,5565
+4220512,Duryea,Pennsylvania,42079,2,309,4917
+4220776,East Bangor,Pennsylvania,42095,2,231,1172
+4220840,East Brady,Pennsylvania,42031,6,215,942
+4220992,East Conemaugh,Pennsylvania,42021,3,420,1220
+4221200,East Greenville,Pennsylvania,42091,1,316,2951
+4221384,East Lansdowne,Pennsylvania,42045,1,316,2668
+4221444,East McKeesport,Pennsylvania,42003,1,203,2126
+4221712,East Pittsburgh,Pennsylvania,42003,1,203,1822
+4221872,East Stroudsburg,Pennsylvania,42089,3,309,9840
+4222016,East Washington,Pennsylvania,42125,1,203,2234
+4221648,Easton,Pennsylvania,42095,2,231,26800
+4222144,Ebensburg,Pennsylvania,42021,3,420,3351
+4222296,Eddystone,Pennsylvania,42045,1,316,2410
+4222576,Edgeworth,Pennsylvania,42003,1,203,1680
+4222672,Edwardsville,Pennsylvania,42079,2,309,4816
+4222888,Eldred,Pennsylvania,42083,7,524,825
+4222992,Elizabeth,Pennsylvania,42003,1,203,1493
+4223016,Elizabethtown,Pennsylvania,42071,2,251,11545
+4223024,Elizabethville,Pennsylvania,42043,2,251,1510
+4223152,Elkland,Pennsylvania,42117,6,431,1821
+4223280,Ellport,Pennsylvania,42073,4,296,1180
+4223296,Ellsworth,Pennsylvania,42125,1,203,1027
+4223304,Ellwood City,Pennsylvania,42073,4,296,7921
+4223584,Emmaus,Pennsylvania,42077,2,231,11211
+4223600,Emporium,Pennsylvania,42023,7,524,2073
+4223616,Emsworth,Pennsylvania,42003,1,203,2449
+4223832,Ephrata,Pennsylvania,42071,2,251,13394
+4224000,Erie,Pennsylvania,42049,2,215,101786
+4224160,Etna,Pennsylvania,42003,1,203,3451
+4224248,Evans City,Pennsylvania,42019,1,203,1833
+4224304,Everett,Pennsylvania,42009,6,420,1834
+4224336,Everson,Pennsylvania,42129,1,203,793
+4224392,Exeter,Pennsylvania,42079,2,309,5652
+4224432,Export,Pennsylvania,42129,1,203,917
+4224440,Exton,Pennsylvania,42029,1,316,4842
+4224536,Fairchance,Pennsylvania,42051,1,203,1975
+4225136,Falls Creek,Pennsylvania,42065,7,332,1037
+4225360,Farrell,Pennsylvania,42085,2,296,5111
+4225680,Ferndale,Pennsylvania,42021,3,420,1636
+4226280,Fleetwood,Pennsylvania,42011,2,231,4085
+4226296,Flemington,Pennsylvania,42035,4,358,1330
+4226408,Folcroft,Pennsylvania,42045,1,316,6606
+4226512,Ford City,Pennsylvania,42005,1,203,2991
+4226560,Forest City,Pennsylvania,42115,6,169,1911
+4226592,Forest Hills,Pennsylvania,42003,1,203,6518
+4226880,Forty Fort,Pennsylvania,42079,2,309,4214
+4227008,Fountain Hill,Pennsylvania,42095,2,231,4597
+4227120,Fox Chapel,Pennsylvania,42003,1,203,5388
+4227232,Frackville,Pennsylvania,42107,4,231,3805
+4227456,Franklin,Pennsylvania,42121,4,215,6545
+4227712,Freedom,Pennsylvania,42007,1,203,1569
+4227744,Freeland,Pennsylvania,42079,2,309,3531
+4227760,Freemansburg,Pennsylvania,42095,2,231,2636
+4227784,Freeport,Pennsylvania,42005,1,203,1813
+4228280,Galeton,Pennsylvania,42105,9,524,1149
+4228328,Gallitzin,Pennsylvania,42021,3,420,1668
+4228720,Geistown,Pennsylvania,42021,3,420,2467
+4228960,Gettysburg,Pennsylvania,42001,3,251,7620
+4229088,Gilberton,Pennsylvania,42107,4,231,769
+4229232,Girard,Pennsylvania,42049,2,215,3104
+4229264,Girardville,Pennsylvania,42107,4,231,1519
+4229432,Glassport,Pennsylvania,42003,1,203,4483
+4229760,Glen Rock,Pennsylvania,42133,2,251,2025
+4229720,Glenolden,Pennsylvania,42045,1,316,7153
+4230128,Gordon,Pennsylvania,42107,4,231,763
+4231256,Green Tree,Pennsylvania,42003,1,203,4432
+4230896,Greencastle,Pennsylvania,42055,3,418,3996
+4231200,Greensburg,Pennsylvania,42129,1,203,14892
+4231328,Greenville,Pennsylvania,42085,2,296,5919
+4231656,Grove City,Pennsylvania,42085,2,296,8322
+4232080,Hallstead,Pennsylvania,42115,6,169,1303
+4232120,Hamburg,Pennsylvania,42011,2,231,4289
+4232448,Hanover,Pennsylvania,42133,2,251,15289
+4232800,Harrisburg,Pennsylvania,42043,2,251,49528
+4233080,Hastings,Pennsylvania,42021,3,420,1278
+4233088,Hatboro,Pennsylvania,42091,1,316,7360
+4233112,Hatfield,Pennsylvania,42091,1,316,3290
+4233200,Hawley,Pennsylvania,42127,6,309,1211
+4233408,Hazleton,Pennsylvania,42079,2,309,25340
+4233592,Heidelberg,Pennsylvania,42003,1,203,1244
+4233744,Hellertown,Pennsylvania,42095,2,231,5898
+4234064,Hermitage,Pennsylvania,42085,2,296,16220
+4234664,Highspire,Pennsylvania,42043,2,251,2399
+4235224,Hollidaysburg,Pennsylvania,42013,3,420,5791
+4235408,Homer City,Pennsylvania,42063,4,420,1707
+4235424,Homestead,Pennsylvania,42003,1,203,3165
+4235520,Honesdale,Pennsylvania,42127,6,309,4480
+4235896,Houston,Pennsylvania,42125,1,203,1296
+4235928,Houtzdale,Pennsylvania,42033,4,332,797
+4236152,Hughestown,Pennsylvania,42079,2,309,1392
+4236160,Hughesville,Pennsylvania,42081,3,358,2128
+4236232,Hummelstown,Pennsylvania,42043,2,251,4538
+4236368,Huntingdon,Pennsylvania,42061,6,565,7093
+4236640,Hyndman,Pennsylvania,42009,6,420,910
+4236816,Indiana,Pennsylvania,42063,4,420,13975
+4236944,Industry,Pennsylvania,42007,1,203,1835
+4237000,Ingram,Pennsylvania,42003,1,203,3330
+4237208,Irwin,Pennsylvania,42129,1,203,3973
+4237784,Jeannette,Pennsylvania,42129,1,203,9654
+4237955,Jefferson Hills,Pennsylvania,42003,1,203,10619
+4238000,Jenkintown,Pennsylvania,42091,1,316,4422
+4238096,Jermyn,Pennsylvania,42069,2,309,2169
+4238128,Jersey Shore,Pennsylvania,42081,3,358,4361
+4238160,Jessup,Pennsylvania,42069,2,309,4676
+4238248,Johnsonburg,Pennsylvania,42047,7,524,2483
+4238288,Johnstown,Pennsylvania,42021,3,420,20978
+4238688,Kane,Pennsylvania,42083,7,524,3730
+4239256,Kenhorst,Pennsylvania,42011,2,231,2877
+4239352,Kennett Square,Pennsylvania,42029,1,316,6072
+4239784,Kingston,Pennsylvania,42079,2,309,13182
+4240040,Kittanning,Pennsylvania,42005,1,203,4044
+4240272,Knox,Pennsylvania,42031,6,215,1146
+4240400,Koppel,Pennsylvania,42007,1,203,762
+4240584,Kulpmont,Pennsylvania,42097,4,113,2924
+4240656,Kutztown,Pennsylvania,42011,2,231,5012
+4240960,Lake City,Pennsylvania,42049,2,215,3031
+4241216,Lancaster,Pennsylvania,42071,2,251,59322
+4241392,Langhorne,Pennsylvania,42017,1,316,1622
+4241432,Lansdale,Pennsylvania,42091,1,316,16269
+4241440,Lansdowne,Pennsylvania,42045,1,316,10620
+4241464,Lansford,Pennsylvania,42025,2,231,3941
+4241608,Larksville,Pennsylvania,42079,2,309,4480
+4241680,Latrobe,Pennsylvania,42129,1,203,8338
+4241768,Laureldale,Pennsylvania,42011,2,231,3911
+4242168,Lebanon,Pennsylvania,42075,3,251,25477
+4242280,Leechburg,Pennsylvania,42129,1,203,2156
+4242392,Leetsdale,Pennsylvania,42003,1,203,1218
+4242472,Lehighton,Pennsylvania,42025,2,231,5500
+4242648,Lemoyne,Pennsylvania,42041,2,251,4553
+4242976,Lewisburg,Pennsylvania,42119,4,113,5792
+4243000,Lewistown,Pennsylvania,42087,4,565,8338
+4243232,Ligonier,Pennsylvania,42129,1,203,1573
+4243248,Lilly,Pennsylvania,42021,3,420,968
+4243408,Lincoln,Pennsylvania,42003,1,203,1072
+4243656,Linesville,Pennsylvania,42039,4,215,1040
+4243816,Lititz,Pennsylvania,42071,2,251,9369
+4243944,Littlestown,Pennsylvania,42001,3,251,4434
+4244128,Lock Haven,Pennsylvania,42035,4,358,9772
+4244664,Lorain,Pennsylvania,42021,3,420,759
+4245568,Luzerne,Pennsylvania,42079,2,309,2845
+4245592,Lykens,Pennsylvania,42043,2,251,1779
+4246592,Mahanoy City,Pennsylvania,42107,4,231,4162
+4246792,Malvern,Pennsylvania,42029,1,316,2998
+4246864,Manchester,Pennsylvania,42133,2,251,2763
+4246888,Manheim,Pennsylvania,42071,2,251,4858
+4247000,Manor,Pennsylvania,42129,1,203,3239
+4247080,Mansfield,Pennsylvania,42117,6,431,3625
+4247344,Marcus Hook,Pennsylvania,42045,1,316,2397
+4247424,Marietta,Pennsylvania,42071,2,251,2588
+4247672,Mars,Pennsylvania,42019,1,203,1699
+4247872,Martinsburg,Pennsylvania,42013,3,420,1958
+4247968,Marysville,Pennsylvania,42043,2,251,2534
+4248000,Masontown,Pennsylvania,42051,1,203,3450
+4248176,Mayfield,Pennsylvania,42069,2,309,1807
+4245824,McAdoo,Pennsylvania,42107,4,231,2300
+4246000,McConnellsburg,Pennsylvania,42057,8,418,1220
+4246072,McDonald,Pennsylvania,42125,1,203,2149
+4246264,McKees Rocks,Pennsylvania,42003,1,203,6104
+4246256,McKeesport,Pennsylvania,42003,1,203,19731
+4246376,McSherrystown,Pennsylvania,42001,3,251,3038
+4248360,Meadville,Pennsylvania,42039,4,215,13388
+4248376,Mechanicsburg,Pennsylvania,42041,2,251,8981
+4248480,Media,Pennsylvania,42045,1,316,5327
+4248696,Mercer,Pennsylvania,42085,2,296,2002
+4248704,Mercersburg,Pennsylvania,42055,3,418,1561
+4248912,Meyersdale,Pennsylvania,42111,4,420,2184
+4248960,Middleburg,Pennsylvania,42109,7,113,1309
+4249184,Midland,Pennsylvania,42007,1,203,2635
+4249288,Mifflinburg,Pennsylvania,42119,4,113,3540
+4249304,Mifflintown,Pennsylvania,42067,6,565,936
+4249760,Mill Hall,Pennsylvania,42035,4,358,1613
+4249680,Millersburg,Pennsylvania,42043,2,251,2557
+4249728,Millersville,Pennsylvania,42071,2,251,8168
+4249920,Millvale,Pennsylvania,42003,1,203,3744
+4250016,Milton,Pennsylvania,42097,4,113,7042
+4250088,Minersville,Pennsylvania,42107,4,231,4397
+4250272,Mohnton,Pennsylvania,42011,2,231,3043
+4250320,Monaca,Pennsylvania,42007,1,203,5737
+4250344,Monessen,Pennsylvania,42129,1,203,7720
+4250408,Monongahela,Pennsylvania,42125,1,203,4300
+4250632,Montgomery,Pennsylvania,42081,3,358,1579
+4250720,Montoursville,Pennsylvania,42081,3,358,4615
+4250736,Montrose,Pennsylvania,42115,6,169,1617
+4250880,Moosic,Pennsylvania,42069,2,309,5719
+4251176,Morton,Pennsylvania,42045,1,316,2669
+4251208,Moscow,Pennsylvania,42069,2,309,2026
+4251496,Mount Carmel,Pennsylvania,42097,4,113,5893
+4251592,Mount Holly Springs,Pennsylvania,42041,2,251,2030
+4251632,Mount Jewett,Pennsylvania,42083,7,524,919
+4251656,Mount Joy,Pennsylvania,42071,2,251,7410
+4251744,Mount Oliver,Pennsylvania,42003,1,203,3403
+4251760,Mount Penn,Pennsylvania,42011,2,231,3106
+4251880,Mount Pleasant,Pennsylvania,42129,1,203,4454
+4251984,Mount Union,Pennsylvania,42087,4,565,2447
+4252264,Muncy,Pennsylvania,42081,3,358,2477
+4252320,Munhall,Pennsylvania,42003,1,203,11406
+4252488,Myerstown,Pennsylvania,42075,3,251,3062
+4252584,Nanticoke,Pennsylvania,42079,2,309,10465
+4252664,Narberth,Pennsylvania,42091,1,316,4282
+4252808,Nazareth,Pennsylvania,42095,2,231,5746
+4252984,Nescopeck,Pennsylvania,42079,2,309,1583
+4253248,New Bethlehem,Pennsylvania,42005,1,203,989
+4253288,New Brighton,Pennsylvania,42007,1,203,6025
+4253368,New Castle,Pennsylvania,42073,4,296,23273
+4253464,New Cumberland,Pennsylvania,42041,2,251,7277
+4253496,New Eagle,Pennsylvania,42125,1,203,2184
+4253568,New Freedom,Pennsylvania,42133,2,251,4464
+4253696,New Holland,Pennsylvania,42071,2,251,5378
+4253712,New Hope,Pennsylvania,42017,1,316,2528
+4253736,New Kensington,Pennsylvania,42129,1,203,13116
+4253920,New Oxford,Pennsylvania,42001,3,251,1783
+4253944,New Philadelphia,Pennsylvania,42107,4,231,1085
+4254352,New Wilmington,Pennsylvania,42073,4,296,2466
+4253968,Newport,Pennsylvania,42099,2,251,1574
+4254320,Newville,Pennsylvania,42041,2,251,1326
+4254656,Norristown,Pennsylvania,42091,1,316,34324
+4254728,North Apollo,Pennsylvania,42129,1,203,1297
+4254776,North Belle Vernon,Pennsylvania,42129,1,203,1971
+4254816,North Braddock,Pennsylvania,42003,1,203,4857
+4254872,North Catasauqua,Pennsylvania,42095,2,231,2849
+4254888,North Charleroi,Pennsylvania,42125,1,203,1313
+4254952,North East,Pennsylvania,42049,2,215,4294
+4255136,North Irwin,Pennsylvania,42129,1,203,846
+4255512,North Wales,Pennsylvania,42091,1,316,3229
+4255608,North York,Pennsylvania,42133,2,251,1914
+4254696,Northampton,Pennsylvania,42095,2,231,9926
+4255456,Northumberland,Pennsylvania,42097,4,113,3804
+4255664,Norwood,Pennsylvania,42045,1,316,5890
+4255840,Oakdale,Pennsylvania,42003,1,203,1459
+4256088,Oakmont,Pennsylvania,42003,1,203,6303
+4256456,Oil City,Pennsylvania,42121,4,215,10557
+4256792,Olyphant,Pennsylvania,42069,2,309,5151
+4257184,Orwigsburg,Pennsylvania,42107,4,231,3099
+4257232,Osceola Mills,Pennsylvania,42027,3,565,1141
+4257480,Oxford,Pennsylvania,42029,1,316,5077
+4257544,Paint,Pennsylvania,42111,4,420,1023
+4257696,Palmerton,Pennsylvania,42025,2,231,5414
+4257720,Palmyra,Pennsylvania,42075,3,251,7320
+4257752,Palo Alto,Pennsylvania,42107,4,231,1032
+4257976,Parker,Pennsylvania,42005,1,203,840
+4258032,Parkesburg,Pennsylvania,42029,1,316,3593
+4258176,Parkside,Pennsylvania,42045,1,316,2328
+4258432,Patton,Pennsylvania,42021,3,420,1769
+4258504,Paxtang,Pennsylvania,42043,2,251,1561
+4258696,Pen Argyl,Pennsylvania,42095,2,231,3595
+4258712,Penbrook,Pennsylvania,42043,2,251,3008
+4259120,Pennsburg,Pennsylvania,42091,1,316,3843
+4259384,Perkasie,Pennsylvania,42017,1,316,8511
+4260120,Phoenixville,Pennsylvania,42029,1,316,16440
+4260712,Pitcairn,Pennsylvania,42003,1,203,3294
+4261048,Pittston,Pennsylvania,42079,2,309,7739
+4261648,Plymouth,Pennsylvania,42079,2,309,5951
+4261864,Point Marion,Pennsylvania,42051,1,203,1159
+4261936,Polk,Pennsylvania,42121,4,215,816
+4262088,Port Allegany,Pennsylvania,42083,7,524,2157
+4262128,Port Carbon,Pennsylvania,42107,4,231,1889
+4262320,Port Vue,Pennsylvania,42003,1,203,3798
+4262048,Portage,Pennsylvania,42021,3,420,2638
+4262416,Pottstown,Pennsylvania,42091,1,316,22377
+4262432,Pottsville,Pennsylvania,42107,4,231,14324
+4262712,Pringle,Pennsylvania,42079,2,309,979
+4262792,Prospect Park,Pennsylvania,42045,1,316,6454
+4262920,Punxsutawney,Pennsylvania,42065,7,332,5962
+4263048,Quakertown,Pennsylvania,42017,1,316,8979
+4263064,Quarryville,Pennsylvania,42071,2,251,2576
+4263408,Rankin,Pennsylvania,42003,1,203,2122
+4263624,Reading,Pennsylvania,42011,2,231,88082
+4264200,Renovo,Pennsylvania,42035,4,358,1228
+4264376,Reynoldsville,Pennsylvania,42065,7,332,2759
+4264784,Ridgway,Pennsylvania,42047,7,524,4078
+4264832,Ridley Park,Pennsylvania,42045,1,316,7002
+4264904,Rimersburg,Pennsylvania,42031,6,215,951
+4265256,Roaring Spring,Pennsylvania,42013,3,420,2585
+4265336,Robesonia,Pennsylvania,42011,2,231,2061
+4265392,Rochester,Pennsylvania,42007,1,203,3657
+4265568,Rockledge,Pennsylvania,42091,1,316,2543
+4265736,Rockwood,Pennsylvania,42111,4,420,890
+4266016,Roscoe,Pennsylvania,42125,1,203,812
+4266168,Roseto,Pennsylvania,42095,2,231,1567
+4266560,Royalton,Pennsylvania,42043,2,251,907
+4266576,Royersford,Pennsylvania,42091,1,316,4752
+4267648,Saltsburg,Pennsylvania,42063,4,420,873
+4268096,Sayre,Pennsylvania,42015,6,358,5587
+4268104,Scalp Level,Pennsylvania,42021,3,420,778
+4268312,Schuylkill Haven,Pennsylvania,42107,4,231,5437
+4268432,Scottdale,Pennsylvania,42129,1,203,4384
+4269000,Scranton,Pennsylvania,42069,2,309,76089
+4269216,Selinsgrove,Pennsylvania,42109,7,113,5654
+4269248,Sellersville,Pennsylvania,42017,1,316,4249
+4269376,Sewickley,Pennsylvania,42003,1,203,3827
+4269600,Shamokin,Pennsylvania,42097,4,113,7374
+4269720,Sharon,Pennsylvania,42085,2,296,14038
+4269752,Sharon Hill,Pennsylvania,42045,1,316,5697
+4269776,Sharpsburg,Pennsylvania,42003,1,203,3446
+4269800,Sharpsville,Pennsylvania,42085,2,296,4415
+4270056,Shenandoah,Pennsylvania,42107,4,231,5071
+4270224,Shickshinny,Pennsylvania,42079,2,309,838
+4270248,Shillington,Pennsylvania,42011,2,231,5273
+4270304,Shinglehouse,Pennsylvania,42105,9,524,1127
+4270352,Shippensburg,Pennsylvania,42041,2,251,5492
+4270464,Shoemakersville,Pennsylvania,42011,2,231,1378
+4270744,Silverdale,Pennsylvania,42017,1,316,871
+4270880,Sinking Spring,Pennsylvania,42011,2,231,4008
+4271144,Slatington,Pennsylvania,42077,2,231,4232
+4271184,Slippery Rock,Pennsylvania,42019,1,203,3625
+4271248,Smethport,Pennsylvania,42083,7,524,1655
+4271776,Somerset,Pennsylvania,42111,4,420,6277
+4271856,Souderton,Pennsylvania,42091,1,316,6618
+4272072,South Coatesville,Pennsylvania,42029,1,316,1303
+4272080,South Connellsville,Pennsylvania,42051,1,203,1970
+4272168,South Fork,Pennsylvania,42021,3,420,928
+4272192,South Greensburg,Pennsylvania,42129,1,203,2117
+4272592,South Waverly,Pennsylvania,42015,6,358,1027
+4272648,South Williamsport,Pennsylvania,42081,3,358,6379
+4272344,Southmont,Pennsylvania,42021,3,420,2284
+4272616,Southwest Greensburg,Pennsylvania,42129,1,203,2155
+4272920,Spring City,Pennsylvania,42029,1,316,3323
+4273192,Spring Grove,Pennsylvania,42133,2,251,2167
+4272960,Springdale,Pennsylvania,42003,1,203,3405
+4267224,St. Clair,Pennsylvania,42107,4,231,3004
+4267304,St. Lawrence,Pennsylvania,42011,2,231,1809
+4267344,St. Marys,Pennsylvania,42047,7,524,13070
+4273808,State College,Pennsylvania,42027,3,565,42034
+4273888,Steelton,Pennsylvania,42043,2,251,5990
+4274288,Stoneboro,Pennsylvania,42085,2,296,1051
+4274712,Strasburg,Pennsylvania,42071,2,251,2809
+4274888,Stroudsburg,Pennsylvania,42089,3,309,5567
+4275072,Sugar Notch,Pennsylvania,42079,2,309,989
+4275248,Summit Hill,Pennsylvania,42025,2,231,3034
+4275304,Sunbury,Pennsylvania,42097,4,113,9905
+4275568,Susquehanna Depot,Pennsylvania,42115,6,169,1643
+4275648,Swarthmore,Pennsylvania,42045,1,316,6194
+4275816,Swissvale,Pennsylvania,42003,1,203,8983
+4275832,Swoyersville,Pennsylvania,42079,2,309,5062
+4275888,Sykesville,Pennsylvania,42065,7,332,1157
+4276032,Tamaqua,Pennsylvania,42107,4,231,7107
+4276104,Tarentum,Pennsylvania,42003,1,203,4530
+4276184,Taylor,Pennsylvania,42069,2,309,6263
+4276304,Telford,Pennsylvania,42017,1,316,4872
+4276648,Throop,Pennsylvania,42069,2,309,4088
+4276904,Titusville,Pennsylvania,42039,4,215,5601
+4277104,Topton,Pennsylvania,42011,2,231,2069
+4277168,Towanda,Pennsylvania,42015,6,358,2919
+4277184,Tower City,Pennsylvania,42107,4,231,1346
+4277272,Trafford,Pennsylvania,42129,1,203,3174
+4277288,Trainer,Pennsylvania,42045,1,316,1828
+4277392,Tremont,Pennsylvania,42107,4,231,1752
+4277584,Troy,Pennsylvania,42015,6,358,1354
+4277784,Tunkhannock,Pennsylvania,42131,2,309,1836
+4277912,Turtle Creek,Pennsylvania,42003,1,203,5349
+4278168,Tyrone,Pennsylvania,42013,3,420,5477
+4278448,Union City,Pennsylvania,42049,2,215,3320
+4278528,Uniontown,Pennsylvania,42051,1,203,10372
+4278712,Upland,Pennsylvania,42045,1,316,3239
+4279776,Vandergrift,Pennsylvania,42129,1,203,5205
+4279792,Vandling,Pennsylvania,42069,2,309,751
+4280032,Verona,Pennsylvania,42003,1,203,2474
+4280040,Versailles,Pennsylvania,42003,1,203,1515
+4280800,Walnutport,Pennsylvania,42077,2,231,2070
+4281000,Warren,Pennsylvania,42123,6,215,9710
+4281328,Washington,Pennsylvania,42125,1,203,13663
+4281616,Watsontown,Pennsylvania,42097,4,113,2351
+4281712,Waymart,Pennsylvania,42127,6,309,1341
+4281824,Waynesboro,Pennsylvania,42055,3,418,10568
+4281832,Waynesburg,Pennsylvania,42059,6,136,4176
+4281856,Weatherly,Pennsylvania,42025,2,231,2525
+4282160,Wellsboro,Pennsylvania,42117,6,431,3263
+4282296,Wernersville,Pennsylvania,42011,2,231,2494
+4282344,Wesleyville,Pennsylvania,42049,2,215,3341
+4282616,West Brownsville,Pennsylvania,42125,1,203,992
+4282704,West Chester,Pennsylvania,42029,1,316,18461
+4282736,West Conshohocken,Pennsylvania,42091,1,316,1320
+4282832,West Easton,Pennsylvania,42095,2,231,1257
+4283104,West Grove,Pennsylvania,42029,1,316,2854
+4283136,West Hazleton,Pennsylvania,42079,2,309,4594
+4283200,West Homestead,Pennsylvania,42003,1,203,1929
+4283248,West Kittanning,Pennsylvania,42005,1,203,1175
+4283328,West Leechburg,Pennsylvania,42129,1,203,1294
+4283496,West Middlesex,Pennsylvania,42085,2,296,863
+4283512,West Mifflin,Pennsylvania,42003,1,203,20313
+4283680,West Newton,Pennsylvania,42129,1,203,2633
+4283856,West Pittston,Pennsylvania,42079,2,309,4868
+4283928,West Reading,Pennsylvania,42011,2,231,4212
+4284144,West View,Pennsylvania,42003,1,203,6771
+4284272,West Wyoming,Pennsylvania,42079,2,309,2725
+4284288,West York,Pennsylvania,42133,2,251,4617
+4282968,Westfield,Pennsylvania,42117,6,431,1064
+4283584,Westmont,Pennsylvania,42021,3,420,5181
+4284440,Whitaker,Pennsylvania,42003,1,203,1271
+4284552,White Haven,Pennsylvania,42079,2,309,1097
+4284704,White Oak,Pennsylvania,42003,1,203,7862
+4285152,Wilkes-Barre,Pennsylvania,42079,2,309,41498
+4285188,Wilkinsburg,Pennsylvania,42003,1,203,15930
+4285272,Williamsburg,Pennsylvania,42013,3,420,1254
+4285312,Williamsport,Pennsylvania,42081,3,358,29381
+4285320,Williamstown,Pennsylvania,42043,2,251,1387
+4285496,Wilmerding,Pennsylvania,42003,1,203,2190
+4285592,Wilson,Pennsylvania,42095,2,231,7896
+4285664,Wind Gap,Pennsylvania,42095,2,231,2720
+4285632,Windber,Pennsylvania,42111,4,420,4138
+4285728,Windsor,Pennsylvania,42133,2,251,1319
+4286056,Womelsdorf,Pennsylvania,42011,2,231,2810
+4286528,Wormleysburg,Pennsylvania,42041,2,251,3070
+4286640,Wrightsville,Pennsylvania,42133,2,251,2310
+4286856,Wyoming,Pennsylvania,42079,2,309,3073
+4286880,Wyomissing,Pennsylvania,42011,2,231,10461
+4286920,Yardley,Pennsylvania,42017,1,316,2434
+4286968,Yeadon,Pennsylvania,42045,1,316,11443
+4287048,York,Pennsylvania,42133,2,251,43718
+4287224,Youngsville,Pennsylvania,42123,6,215,1729
+4287232,Youngwood,Pennsylvania,42129,1,203,3050
+4287272,Zelienople,Pennsylvania,42019,1,203,3812
+3600199,Adams,New York,36045,3,198,1775
+3600276,Addison,New York,36101,4,431,1763
+3600342,Afton,New York,36017,6,466,822
+3600441,Akron,New York,36029,1,164,2868
+3601000,Albany,New York,36001,2,96,97856
+3601088,Alden,New York,36029,1,164,2605
+3601187,Alexandria Bay,New York,36045,3,198,1078
+3601198,Alfred,New York,36003,7,164,4174
+3602044,Amityville,New York,36103,1,134,9523
+3602143,Andover,New York,36003,7,164,1042
+3602176,Angelica,New York,36003,7,164,869
+3602198,Angola,New York,36029,1,164,2127
+3602407,Arcade,New York,36121,6,164,2071
+3602506,Ardsley,New York,36119,1,151,4452
+3602902,Athens,New York,36039,6,96,1668
+3603078,Auburn,New York,36011,4,214,27687
+3603331,Avoca,New York,36101,4,431,946
+3603353,Avon,New York,36051,1,184,3394
+3603408,Babylon,New York,36103,1,134,12166
+3604033,Bainbridge,New York,36017,6,466,1355
+3604198,Baldwinsville,New York,36067,2,214,7378
+3604253,Ballston Spa,New York,36091,2,96,5409
+3604715,Batavia,New York,36037,4,164,15465
+3604759,Bath,New York,36101,4,431,5786
+3605034,Bayville,New York,36059,1,134,6669
+3605100,Beacon,New York,36027,1,151,15541
+3605562,Belfast,New York,36003,7,164,837
+3605639,Bellerose,New York,36059,1,134,1193
+3605815,Belmont,New York,36003,7,164,969
+3606046,Bergen,New York,36037,4,164,1176
+3606464,Big Flats,New York,36015,3,431,5277
+3606607,Binghamton,New York,36007,2,169,47376
+3606849,Blasdell,New York,36029,1,164,2553
+3607190,Bolivar,New York,36003,7,164,1047
+3607355,Boonville,New York,36065,2,198,2072
+3608070,Brewster,New York,36079,1,151,2390
+3608103,Briarcliff Manor,New York,36119,1,151,7867
+3608323,Brightwaters,New York,36103,1,134,3103
+3608422,Broadalbin,New York,36035,4,385,1327
+3608466,Brockport,New York,36055,1,184,8366
+3608488,Brocton,New York,36013,4,215,1486
+3608532,Bronxville,New York,36119,1,151,6323
+3609000,Brookhaven,New York,36103,1,134,3451
+3610231,Brownville,New York,36045,3,198,1119
+3610341,Buchanan,New York,36119,1,151,2230
+3611000,Buffalo,New York,36029,1,164,261310
+3611638,Cairo,New York,36039,6,96,1402
+3611704,Caledonia,New York,36051,1,184,2201
+3611825,Cambridge,New York,36115,3,96,1870
+3611847,Camden,New York,36065,2,198,2231
+3611902,Camillus,New York,36067,2,214,1213
+3612111,Canajoharie,New York,36057,4,385,2229
+3612188,Canastota,New York,36053,2,214,4804
+3612210,Candor,New York,36107,2,169,851
+3612254,Canisteo,New York,36101,4,431,2270
+3612331,Canton,New York,36089,4,527,6314
+3612683,Carthage,New York,36045,3,198,3747
+3612771,Castile,New York,36121,6,164,1015
+3612870,Castleton-on-Hudson,New York,36083,2,96,1473
+3613024,Cattaraugus,New York,36009,4,164,1002
+3613145,Cazenovia,New York,36053,2,214,2835
+3613233,Cedarhurst,New York,36059,1,134,6592
+3613288,Celoron,New York,36013,4,215,1112
+3613739,Champlain,New York,36019,5,527,1101
+3615814,Clarence,New York,36029,1,164,2646
+3615946,Clarkson,New York,36055,1,184,4358
+3616089,Clayton,New York,36045,3,198,1978
+3616375,Clifton Springs,New York,36069,1,184,2127
+3616573,Clyde,New York,36117,1,184,2093
+3616727,Cohocton,New York,36101,4,431,838
+3616749,Cohoes,New York,36001,2,96,16168
+3616936,Cold Spring,New York,36079,1,151,2013
+3617332,Colonie,New York,36001,2,96,7793
+3618047,Cooperstown,New York,36077,7,466,1852
+3618212,Corinth,New York,36091,2,96,2559
+3618333,Cornwall-on-Hudson,New York,36071,1,151,3018
+3618388,Cortland,New York,36023,4,214,19204
+3618718,Coxsackie,New York,36039,6,96,2813
+3619213,Croton-on-Hudson,New York,36119,1,151,8070
+3619356,Cuba,New York,36003,7,164,1575
+3620126,Delhi,New York,36025,6,466,3087
+3620313,Depew,New York,36029,1,164,15303
+3620500,Dexter,New York,36045,3,198,1052
+3620698,Dobbs Ferry,New York,36119,1,151,10875
+3620731,Dolgeville,New York,36043,2,198,2206
+3620951,Dryden,New York,36109,3,214,1890
+3621050,Dundee,New York,36123,1,184,1725
+3621105,Dunkirk,New York,36013,4,215,12563
+3621589,East Aurora,New York,36029,1,164,6236
+3622106,East Greenbush,New York,36083,2,96,4487
+3622865,East Rochester,New York,36055,1,184,6587
+3622876,East Rockaway,New York,36059,1,134,9818
+3623052,East Syracuse,New York,36067,2,214,3084
+3623217,East Williston,New York,36059,1,134,2556
+3623404,Eden,New York,36029,1,164,3516
+3623789,Elbridge,New York,36067,2,214,1058
+3623822,Elizabethtown,New York,36031,6,527,754
+3623965,Ellenville,New York,36111,3,151,4135
+3624229,Elmira,New York,36015,3,431,29200
+3624251,Elmira Heights,New York,36015,3,431,4097
+3624295,Elmsford,New York,36119,1,151,4664
+3624515,Endicott,New York,36007,2,169,13392
+3625076,Fairport,New York,36055,1,184,5353
+3625164,Falconer,New York,36013,4,215,2420
+3625384,Farmingdale,New York,36059,1,134,8189
+3625527,Fayetteville,New York,36067,2,214,4373
+3626264,Floral Park,New York,36059,1,134,15863
+3626462,Fonda,New York,36057,4,385,795
+3626924,Fort Plain,New York,36057,4,385,2322
+3627331,Franklinville,New York,36009,4,164,1740
+3627419,Fredonia,New York,36013,4,215,11230
+3627485,Freeport,New York,36059,1,134,42860
+3627694,Friendship,New York,36003,7,164,1218
+3628178,Garden City,New York,36059,1,134,22371
+3628244,Gardiner,New York,36111,3,151,950
+3628453,Gates,New York,36055,1,184,4910
+3628618,Geneseo,New York,36051,1,184,8031
+3628640,Geneva,New York,36069,1,184,13261
+3629113,Glen Cove,New York,36059,1,134,26964
+3629333,Glens Falls,New York,36113,3,96,14700
+3629443,Gloversville,New York,36035,4,385,15665
+3629542,Goshen,New York,36071,1,151,5454
+3629597,Gouverneur,New York,36089,4,527,3949
+3629630,Gowanda,New York,36029,1,164,2709
+3630026,Granville,New York,36115,3,96,2543
+3630169,Great Neck,New York,36059,1,134,9989
+3630191,Great Neck Estates,New York,36059,1,134,2761
+3630213,Great Neck Plaza,New York,36059,1,134,6707
+3630521,Green Island,New York,36083,2,96,2620
+3630411,Greene,New York,36017,6,466,1580
+3631643,Hamburg,New York,36029,1,164,9409
+3631709,Hamilton,New York,36053,2,214,4239
+3631786,Hamlin,New York,36055,1,184,5521
+3631940,Hancock,New York,36025,6,466,1031
+3632710,Hastings-on-Hudson,New York,36119,1,151,7849
+3632754,Haverstraw,New York,36087,1,151,11910
+3633139,Hempstead,New York,36059,1,134,53891
+3634495,Highland Falls,New York,36071,1,151,3900
+3634660,Hillburn,New York,36087,1,151,951
+3635111,Holland,New York,36029,1,164,1206
+3635155,Holley,New York,36073,1,184,1811
+3635276,Homer,New York,36023,4,214,3291
+3635364,Honeoye Falls,New York,36055,1,184,2674
+3635474,Hoosick Falls,New York,36083,2,96,3501
+3635672,Hornell,New York,36101,4,431,8563
+3635694,Horseheads,New York,36015,3,431,6461
+3635969,Hudson,New York,36021,6,96,6713
+3635980,Hudson Falls,New York,36115,3,96,7281
+3636233,Huntington,New York,36103,1,134,18046
+3637132,Hurley,New York,36111,3,151,3458
+3637275,Ilion,New York,36043,2,198,8053
+3637737,Irondequoit,New York,36055,1,184,51692
+3637803,Irvington,New York,36119,1,151,6420
+3637847,Island Park,New York,36059,1,134,4655
+3637869,Islip,New York,36103,1,134,18689
+3638077,Ithaca,New York,36109,3,214,30014
+3638264,Jamestown,New York,36013,4,215,31146
+3638748,Johnson City,New York,36007,2,169,15174
+3638825,Jordan,New York,36067,2,214,1368
+3639089,Keeseville,New York,36031,6,527,1815
+3639232,Kenmore,New York,36029,1,164,15423
+3639694,Kings Point,New York,36059,1,134,5005
+3639727,Kingston,New York,36111,3,151,23893
+3640189,Lackawanna,New York,36029,1,164,18141
+3640508,Lake George,New York,36113,3,96,906
+3640761,Lake Placid,New York,36031,6,527,2521
+3641069,Lakewood,New York,36013,4,215,3002
+3641135,Lancaster,New York,36029,1,164,10352
+3641223,Lansing,New York,36109,3,214,3529
+3641333,Larchmont,New York,36119,1,151,5864
+3642026,Le Roy,New York,36037,4,164,4391
+3642147,Lewiston,New York,36063,1,164,2701
+3642323,Lima,New York,36051,1,184,2139
+3642554,Lindenhurst,New York,36103,1,134,27253
+3642829,Little Valley,New York,36009,4,164,1143
+3642884,Liverpool,New York,36067,2,214,2347
+3642950,Livonia,New York,36051,1,184,1409
+3643335,Long Beach,New York,36059,1,134,33275
+3643720,Lowville,New York,36049,6,198,3470
+3643874,Lynbrook,New York,36059,1,134,19427
+3643962,Lyons,New York,36117,1,184,3619
+3644149,Macedon,New York,36117,1,184,1523
+3644479,Madrid,New York,36089,4,527,757
+3644710,Malone,New York,36033,7,527,5911
+3644787,Malverne,New York,36059,1,134,8514
+3644831,Mamaroneck,New York,36119,1,151,18929
+3644853,Manchester,New York,36069,1,184,1709
+3645018,Manlius,New York,36067,2,214,4704
+3645392,Marathon,New York,36023,4,214,919
+3645480,Marcellus,New York,36067,2,214,1813
+3645634,Marion,New York,36117,1,184,1511
+3646019,Massena,New York,36089,4,527,10936
+3646162,Maybrook,New York,36071,1,151,2958
+3646206,Mayfield,New York,36035,4,385,832
+3646239,Mayville,New York,36013,4,215,1711
+3644193,McGraw,New York,36023,4,214,1053
+3646360,Mechanicville,New York,36091,2,96,5196
+3646415,Medina,New York,36073,1,184,6065
+3646536,Menands,New York,36001,2,96,3990
+3646811,Mexico,New York,36075,2,214,1624
+3646866,Middleburgh,New York,36095,2,96,1500
+3646998,Middleport,New York,36063,1,164,1840
+3647273,Millbrook,New York,36027,1,151,1452
+3647636,Mineola,New York,36059,1,134,18799
+3647680,Minetto,New York,36075,2,214,1069
+3647988,Monroe,New York,36071,1,151,8364
+3648142,Montgomery,New York,36071,1,151,3814
+3648175,Monticello,New York,36105,4,151,6726
+3648197,Montour Falls,New York,36097,6,431,1711
+3648296,Moravia,New York,36011,4,214,1282
+3648890,Mount Kisco,New York,36119,1,151,10877
+3648945,Mount Morris,New York,36051,1,184,2986
+3649121,Mount Vernon,New York,36119,1,151,67292
+3649231,Munsey Park,New York,36059,1,134,2693
+3649429,Naples,New York,36069,1,184,1041
+3649946,New Berlin,New York,36017,6,466,1028
+3650298,New Hartford,New York,36065,2,198,1847
+3650397,New Hyde Park,New York,36059,1,134,9712
+3650551,New Paltz,New York,36111,3,151,6818
+3650617,New Rochelle,New York,36119,1,151,77062
+3650837,New Windsor,New York,36071,1,151,8922
+3651011,New York Mills,New York,36065,2,198,3327
+3649891,Newark,New York,36117,1,184,9145
+3649902,Newark Valley,New York,36107,2,169,997
+3650034,Newburgh,New York,36071,1,151,28866
+3650221,Newfane,New York,36063,1,164,3822
+3651055,Niagara Falls,New York,36063,1,164,50193
+3651319,Norfolk,New York,36089,4,527,1327
+3651792,North Collins,New York,36029,1,164,1232
+3653660,North Syracuse,New York,36067,2,214,6800
+3653682,North Tonawanda,New York,36063,1,164,31568
+3653396,Northport,New York,36103,1,134,7401
+3653979,Norwich,New York,36017,6,466,7190
+3654012,Norwood,New York,36089,4,527,1657
+3654078,Nunda,New York,36051,1,184,1377
+3654100,Nyack,New York,36087,1,151,6765
+3654485,Ogdensburg,New York,36089,4,527,11128
+3654705,Old Westbury,New York,36059,1,134,4671
+3654716,Olean,New York,36009,4,164,14452
+3654837,Oneida,New York,36053,2,214,11393
+3654881,Oneonta,New York,36077,7,466,13901
+3655002,Ontario,New York,36117,1,184,2160
+3655574,Oswego,New York,36075,2,214,18142
+3655882,Owego,New York,36107,2,169,3896
+3655948,Oxford,New York,36017,6,466,1450
+3656088,Painted Post,New York,36101,4,431,1809
+3656660,Patchogue,New York,36103,1,134,11798
+3656979,Peekskill,New York,36119,1,151,23583
+3657001,Pelham,New York,36119,1,151,6910
+3657023,Pelham Manor,New York,36119,1,151,5486
+3657177,Penn Yan,New York,36123,1,184,5159
+3657243,Perry,New York,36121,6,164,3673
+3657364,Peru,New York,36019,5,527,1591
+3657518,Phelps,New York,36069,1,184,1989
+3657551,Philadelphia,New York,36045,3,198,1252
+3657639,Philmont,New York,36021,6,96,1379
+3657661,Phoenix,New York,36067,2,214,2382
+3657749,Piermont,New York,36087,1,151,2510
+3658354,Pittsford,New York,36055,1,184,1355
+3658728,Pleasantville,New York,36119,1,151,7019
+3658794,Poestenkill,New York,36083,2,96,1061
+3659212,Port Byron,New York,36011,4,214,1290
+3659223,Port Chester,New York,36119,1,151,28967
+3659245,Port Dickinson,New York,36007,2,169,1641
+3659333,Port Henry,New York,36031,6,527,1194
+3659388,Port Jervis,New York,36071,1,151,8828
+3659498,Portville,New York,36009,4,164,1014
+3659564,Potsdam,New York,36089,4,527,9428
+3659641,Poughkeepsie,New York,36027,1,151,32736
+3659960,Pulaski,New York,36075,2,214,2365
+3660576,Randolph,New York,36009,4,164,1286
+3660675,Ravena,New York,36001,2,96,3268
+3660895,Red Hook,New York,36027,1,151,1961
+3661148,Rensselaer,New York,36083,2,96,9392
+3661489,Richfield Springs,New York,36077,7,466,1264
+3661588,Richmondville,New York,36095,2,96,918
+3661874,Ripley,New York,36013,4,215,872
+3663000,Rochester,New York,36055,1,184,210565
+3663264,Rockville Centre,New York,36059,1,134,24023
+3663418,Rome,New York,36065,2,198,33725
+3663979,Rouses Point,New York,36019,5,527,2209
+3664309,Rye,New York,36119,1,151,15720
+3664408,Sackets Harbor,New York,36045,3,198,1450
+3664485,Sag Harbor,New York,36103,1,134,2169
+3664771,Salem,New York,36115,3,96,946
+3665068,Sandy Creek,New York,36075,2,214,771
+3665233,Saranac Lake,New York,36033,7,527,5406
+3665255,Saratoga Springs,New York,36091,2,96,26586
+3665288,Saugerties,New York,36111,3,151,3971
+3665431,Scarsdale,New York,36119,1,151,17166
+3665508,Schenectady,New York,36093,2,96,66135
+3665585,Schoharie,New York,36095,2,96,922
+3665750,Schuylerville,New York,36115,3,96,1386
+3665893,Scotia,New York,36093,2,96,7729
+3666047,Sea Cliff,New York,36059,1,134,4995
+3666322,Seneca Falls,New York,36099,6,184,6681
+3666828,Shelter Island,New York,36103,1,134,1333
+3666883,Sherburne,New York,36017,6,466,1367
+3666993,Sherrill,New York,36053,2,214,3071
+3667257,Shortsville,New York,36069,1,184,1439
+3667334,Sidney,New York,36025,6,466,3900
+3667411,Silver Creek,New York,36013,4,215,2656
+3667466,Silver Springs,New York,36121,6,164,782
+3667638,Sleepy Hollow,New York,36119,1,151,9870
+3667686,Sloan,New York,36029,1,164,3661
+3667708,Sloatsburg,New York,36087,1,151,3039
+3667851,Smithtown,New York,36103,1,134,26470
+3668209,Sodus,New York,36117,1,184,1819
+3668286,Solvay,New York,36067,2,214,6584
+3669078,South Glens Falls,New York,36113,3,96,3518
+3669441,South Nyack,New York,36087,1,151,3510
+3668462,Southampton,New York,36103,1,134,3109
+3669452,Southold,New York,36103,1,134,5748
+3669606,Southport,New York,36015,3,431,7238
+3670167,Spencer,New York,36107,2,169,759
+3670189,Spencerport,New York,36055,1,184,3601
+3670420,Spring Valley,New York,36087,1,151,31347
+3670442,Springville,New York,36029,1,164,4296
+3664639,St. Johnsville,New York,36057,4,385,1732
+3670618,Stamford,New York,36025,6,466,1119
+3671267,Stewart Manor,New York,36059,1,134,1896
+3671322,Stillwater,New York,36091,2,96,1738
+3671663,Stony Point,New York,36087,1,151,12147
+3671894,Suffern,New York,36087,1,151,10723
+3673000,Syracuse,New York,36067,2,214,145170
+3673176,Tarrytown,New York,36119,1,151,11277
+3673517,Theresa,New York,36045,3,198,863
+3673605,Thomaston,New York,36059,1,134,2617
+3673880,Ticonderoga,New York,36031,6,527,3382
+3674023,Tivoli,New York,36027,1,151,1118
+3675484,Troy,New York,36083,2,96,50129
+3675506,Trumansburg,New York,36109,3,214,1797
+3675627,Tully,New York,36067,2,214,873
+3676001,Unadilla,New York,36077,7,466,1128
+3676540,Utica,New York,36065,2,198,62235
+3676617,Valatie,New York,36021,6,96,1819
+3676705,Valley Stream,New York,36059,1,134,37511
+3677112,Vernon,New York,36065,2,198,1172
+3677167,Verona,New York,36065,2,198,852
+3677376,Victor,New York,36069,1,184,2696
+3677728,Waddington,New York,36089,4,527,972
+3677849,Walden,New York,36071,1,151,6978
+3678168,Wappingers Falls,New York,36027,1,151,5522
+3678289,Warrensburg,New York,36113,3,96,3103
+3678333,Warsaw,New York,36121,6,164,3473
+3678355,Warwick,New York,36071,1,151,6731
+3678520,Waterford,New York,36091,2,96,1990
+3678663,Waterville,New York,36065,2,198,1583
+3678674,Watervliet,New York,36001,2,96,10254
+3678696,Watkins Glen,New York,36097,6,431,1859
+3678850,Wayland,New York,36101,4,431,1865
+3678960,Webster,New York,36055,1,184,5399
+3679015,Weedsport,New York,36011,4,214,1815
+3679092,Wellsville,New York,36003,7,164,4679
+3679499,West Carthage,New York,36045,3,198,2012
+3680203,West Haverstraw,New York,36087,1,151,10165
+3680907,West Seneca,New York,36029,1,164,44711
+3679444,Westbury,New York,36059,1,134,15146
+3679939,Westfield,New York,36013,4,215,3224
+3681677,White Plains,New York,36119,1,151,56853
+3681622,Whitehall,New York,36115,3,96,2614
+3681710,Whitesboro,New York,36065,2,198,3772
+3682029,Williamson,New York,36117,1,184,2495
+3682084,Williamsville,New York,36029,1,164,5300
+3682117,Williston Park,New York,36059,1,134,7287
+3682260,Willsboro,New York,36031,6,527,753
+3682524,Windsor,New York,36007,2,169,916
+3682678,Wolcott,New York,36117,1,184,1701
+3683041,Woodstock,New York,36111,3,151,2088
+3683118,Worcester,New York,36077,7,466,1113
+3684000,Yonkers,New York,36119,1,151,195976
